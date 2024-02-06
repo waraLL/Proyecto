@@ -1,4 +1,6 @@
 Realizado por M. Wara López Laime
+
+
 Para la ejecución del código fuente en Jupyter Notebooks seguir las siguientes instrucciones:
 1. Acceder a Jupyter Notebooks: iniciar Jupyter Notebooks en su entorno de trabajo.
 2. Navegar a la ubicación del archivo: utilizando la interfaz de Jupyter Notebooks, navegar la ubicación donde se guardó el archivo ‘codigoProyecto.ipynb’.
